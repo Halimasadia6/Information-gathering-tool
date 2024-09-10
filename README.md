@@ -18,6 +18,7 @@ Create a directory for your project:
 
 mkdir info_gathering_tool
 cd info_gathering_tool
+
 2. Create the Python Script
 Create a file named info_tool.py:
 
